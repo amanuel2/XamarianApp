@@ -1,0 +1,9 @@
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\bin\Debug\App1.dll
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\bin\Debug\App1.pdb
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\obj\Debug\App1.dll
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\obj\Debug\App1.pdb
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+c:\users\amanuel\documents\SV_AM\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Amanuel\documents\SV_AM\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+C:\Users\Amanuel\documents\SV_AM\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
